@@ -1,2 +1,2 @@
 # Hamsto
-ads
+Hello mig
